@@ -57,7 +57,7 @@
         
     - 텀블러를 사용하지 않는 이유 (한국소비자원)
         휴대하기 어려워서 (76%) / 세척해야 하는 불편함이 있어서(53.5%) / 인센티브가 적어서(19.6%) / 텀블러 구매 시 비용 발생해서(18.1%)  
-        출처 : https://www.kca.go.kr/brd/m_46/down.do?brd_id=R001&seq=2280&data_tp=A&file_seq=2
+        출처 : https://www.kca.go.kr/brd/m_46/down.do?brd_id=R001&seq=2280&data_tp=A&file_seq=2   
 
     - 한국에서는 nfc 결제가 원활히 이루어지지 않고 있다.  
         https://korean.alibaba.com/g/nfc-tag-price.html  
@@ -69,7 +69,11 @@
     - IOT
     - 모바일 앱 (네이티브) : 스토리보드 작성 -> 디자이너 작업 -> UI 받아서 서버 통신
 
-* 기타
-    - 밴드 형식으로 카드 제작 : 텀블러에 끼워서 사용 
-        -> 텀블러 제조 비용 절감 가능
-        -> but 스타벅스 결제 텀블러의 친환경적 이미지 퇴색될 가능성 있음
+* 기타 (추가 제안 사항)  
+    - 밴드 형식으로 카드 제작 : 텀블러에 끼워서 사용  
+        -> 텀블러 제조 비용 절감 가능  
+        -> but 스타벅스 결제 텀블러의 친환경적 이미지 퇴색될 가능성 있음  
+    - 스타벅스 Pay Tumbler 으로 결제, 사용한 횟수에 따라 유저에게 리워드를 줌  
+        (ex : Pay Tumbler 로 30번 결제한 사람에게는 Gold Tumbler 을 지급해 줌)  
+    - 텀블러 카드 예치금으로 스타벅스 사에서 핀테크 활용 가능
+        http://www.hani.co.kr/arti/economy/finance/873672.html
