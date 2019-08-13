@@ -1,6 +1,6 @@
 * 인트로
     1. 친환경
-        <code>
+        <pre><code>
         - 관련 기사 url  
             [일회용 컵 재활용 가능한 아이디어 상품에 상금 100억]  
             https://www.insight.co.kr/news/146282  
@@ -30,28 +30,28 @@
 
         - 영국에 한 카페는 천연소재로 된 커피머그를 자체적으로 보급하는데 crowdfunding  
             https://www.crowdfunder.co.uk/y-h-green-party-travel-coffee-mugs
-        </code>
+        </code></pre>
 
     2. 개인의 편리함 / 합리성
     
         * 관련기사 URL
     
     3. 스타벅스 기업의 이미지 제고 / 일회용품 비용 절감
-        <code>
+        <pre><code>
         * 관련기사 URL
     
     ​		[스타벅스, 재활용·생분해성 컵 테스트]
     
     ​		http://www.ybstv.net/news/article.html?no=29271
-        </code>
+        </code></pre>
     
     4. 스타벅스 파트너의 업무 효율화
-        <code>
+        <pre><code>
         - 텀블러를 통해 주문 정보를 조회할 수 있으므로, 음료 준비 과정에서 파트너들의 혼선을 줄여줄 수 있다.
-        </code>
+        </code></pre>
 
 * 질문 사항으로 나올 수 있는 문제들
-    <code>
+    <pre>
     - 스타벅스 텀블러의 인식 문제 : 지금도 매장에서 텀블러 식별 해결책이 없음
     - 뚜껑 진동벨 기능 : 통신 문제 / 충전해야 하는 문제
 
@@ -78,7 +78,7 @@
         https://korean.alibaba.com/g/nfc-tag-price.html  
         이미 2012년부터 스타벅스는 NFC 결제 가능한 리더기를 구축해놓음  
             -> 리더기에 대한 추가 비용 지불은 필요없습니다  
-    </code>
+    </pre>
 * 필요 기술
     <code>
     - NFC
