@@ -59,11 +59,10 @@
         휴대하기 어려워서 (76%) / 세척해야 하는 불편함이 있어서(53.5%) / 인센티브가 적어서(19.6%) / 텀블러 구매 시 비용 발생해서(18.1%)  
         출처 : https://www.kca.go.kr/brd/m_46/down.do?brd_id=R001&seq=2280&data_tp=A&file_seq=2
 
-    - 한국에서는 nfc 결제가 원활히 이루어지지 않고 있다.
+    - 한국에서는 nfc 결제가 원활히 이루어지지 않고 있다.  
+        https://korean.alibaba.com/g/nfc-tag-price.html  
         이미 2012년부터 스타벅스는 NFC 결제 가능한 리더기를 구축해놓음  
             -> 리더기에 대한 추가 비용 지불은 필요없습니다  
-        https://korean.alibaba.com/g/nfc-tag-price.html
-
 
 * 필요 기술 
     - NFC
