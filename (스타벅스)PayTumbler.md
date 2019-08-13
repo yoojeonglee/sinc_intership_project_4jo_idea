@@ -1,6 +1,6 @@
 * 인트로
     1. 친환경
-        <pre><code>
+        <code>
         - 관련 기사 url  
             [일회용 컵 재활용 가능한 아이디어 상품에 상금 100억]  
             https://www.insight.co.kr/news/146282  
@@ -30,30 +30,28 @@
 
         - 영국에 한 카페는 천연소재로 된 커피머그를 자체적으로 보급하는데 crowdfunding  
             https://www.crowdfunder.co.uk/y-h-green-party-travel-coffee-mugs
-        </pre></code>
-2. 개인의 편리함 / 합리성
+        </code>
+
+    2. 개인의 편리함 / 합리성
     
         * 관련기사 URL
     
-        
-
-        
-    
     3. 스타벅스 기업의 이미지 제고 / 일회용품 비용 절감
-    
+        <code>
         * 관련기사 URL
     
     ​		[스타벅스, 재활용·생분해성 컵 테스트]
     
     ​		http://www.ybstv.net/news/article.html?no=29271
-    
-    
+        </code>
     
     4. 스타벅스 파트너의 업무 효율화
-    
-    - 텀블러를 통해 주문 정보를 조회할 수 있으므로, 음료 준비 과정에서 파트너들의 혼선을 줄여줄 수 있다.
-    
+        <code>
+        - 텀블러를 통해 주문 정보를 조회할 수 있으므로, 음료 준비 과정에서 파트너들의 혼선을 줄여줄 수 있다.
+        </code>
+
 * 질문 사항으로 나올 수 있는 문제들
+    <code>
     - 스타벅스 텀블러의 인식 문제 : 지금도 매장에서 텀블러 식별 해결책이 없음
     - 뚜껑 진동벨 기능 : 통신 문제 / 충전해야 하는 문제
 
@@ -80,13 +78,16 @@
         https://korean.alibaba.com/g/nfc-tag-price.html  
         이미 2012년부터 스타벅스는 NFC 결제 가능한 리더기를 구축해놓음  
             -> 리더기에 대한 추가 비용 지불은 필요없습니다  
-
-* 필요 기술 
+    </code>
+* 필요 기술
+    <code>
     - NFC
     - IOT
     - 모바일 앱 (네이티브) : 스토리보드 작성 -> 디자이너 작업 -> UI 받아서 서버 통신
+    </code>
 
 * 기타 (추가 제안 사항)  
+<code>
     - 밴드 형식으로 카드 제작 : 텀블러에 끼워서 사용  
         -> 텀블러 제조 비용 절감 가능  
         -> but 스타벅스 결제 텀블러의 친환경적 이미지 퇴색될 가능성 있음  
@@ -100,16 +101,16 @@
     - 텀블러를 자주 사용함으로써 얻을 수 있는 benefit 을 강화해야 한다. (각각의 레벨에 따라 서버측에서 유저에게 사용 목표치를 제안해 줌) -> 로열 유저를 생성할 수 있다.
     - 텀블러 카드 예치금으로 스타벅스 사에서 핀테크 활용 가능(재무제표 선수금 항목 참고)
         http://www.hani.co.kr/arti/economy/finance/873672.html
-
+</code>
 
 
 * 주의
-
+<code>
 [ 영국에서 판매중인 결제 텀블러 ] - 우리 조와는 결제 부분이 다름
 
 https://its.tistory.com/2470620
 
 https://www.which.co.uk/news/2018/12/costa-coffee-launches-first-ever-contactless-payment-reusable-cup/
-
+</code>
 
 
