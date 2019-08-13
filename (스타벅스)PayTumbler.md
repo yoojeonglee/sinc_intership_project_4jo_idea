@@ -19,13 +19,13 @@
             https://www.treehugger.com/corporate-responsibility/starbucks-sees-150-increase-reusable-cup-trial.html  
         - 영국 스타벅스 reusable cup 설문  
             https://stories.starbucks.com/emea/stories/2018/starbucks-reports-150-increase-in-reusable-cup-use/  
-        - 한국의 친환경 정책 (Goal)
+        - 한국의 친환경 정책 (Goal)  
             [참고] 한국의 플라스틱 사용 규제정책  
             □ 2022년까지 일회용컵 및 비닐봉투 사용량을 35% 줄이고 2030년까지 플라스틱 폐기물 발생량을 50% 감축하기 위해 ‘재활용 폐기물 관리 종합대책  
             ㅇ 2020년까지 모든 생수·음료수용 유색 페트병을 무색으로 전환  
             * 음료·생수 중 유색 페트병 비율 : 36.5%(‘16) → 15.5%(’19) → 0%(‘20)  
-            ㅇ 2018년 8월부터 커피전문점 등 매장 내 일회용 플라스틱컵 사용 금지  
-            
+            ㅇ 2018년 8월부터 커피전문점 등 매장 내 일회용 플라스틱컵 사용 금지   
+            (출처 : 주요국의 플라스틱 규제 동향과 혁신 비즈니스 모델 연구, 신성장연구실 장현숙 연구위원, 2019.4)  
 
     2. 개인의 편리함 / 합리성
     3. 스타벅스 기업의 이미지 제고 / 일회용품 비용 절감
