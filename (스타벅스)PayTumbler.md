@@ -30,12 +30,28 @@
         - 영국에 한 카페는 천연소재로 된 커피머그를 자체적으로 보급하는데 crowdfunding  
             https://www.crowdfunder.co.uk/y-h-green-party-travel-coffee-mugs
         
+2. 개인의 편리함 / 합리성
+    
+        * 관련기사 URL
+    
+        
 
-    2. 개인의 편리함 / 합리성
+        
+    
     3. 스타벅스 기업의 이미지 제고 / 일회용품 비용 절감
+    
+        * 관련기사 URL
+    
+    ​		[스타벅스, 재활용·생분해성 컵 테스트]
+    
+    ​		http://www.ybstv.net/news/article.html?no=29271
+    
+    
+    
     4. 스타벅스 파트너의 업무 효율화
-        - 텀블러를 통해 주문 정보를 조회할 수 있으므로, 음료 준비 과정에서 파트너들의 혼선을 줄여줄 수 있다.
-
+    
+    - 텀블러를 통해 주문 정보를 조회할 수 있으므로, 음료 준비 과정에서 파트너들의 혼선을 줄여줄 수 있다.
+    
 * 질문 사항으로 나올 수 있는 문제들
     - 스타벅스 텀블러의 인식 문제 : 지금도 매장에서 텀블러 식별 해결책이 없음
     - 뚜껑 진동벨 기능 : 통신 문제 / 충전해야 하는 문제
@@ -75,5 +91,18 @@
         -> but 스타벅스 결제 텀블러의 친환경적 이미지 퇴색될 가능성 있음  
     - 스타벅스 Pay Tumbler 으로 결제, 사용한 횟수에 따라 유저에게 리워드를 줌  
         (ex : Pay Tumbler 로 30번 결제한 사람에게는 Gold Tumbler 을 지급해 줌)  
-    - 텀블러 카드 예치금으로 스타벅스 사에서 핀테크 활용 가능
+    - 텀블러 카드 예치금으로 스타벅스 사에서 핀테크 활용 가능(재무제표 선수금 항목 참고)
         http://www.hani.co.kr/arti/economy/finance/873672.html
+
+
+
+* 주의
+
+[ 영국에서 판매중인 결제 텀블러 ] - 우리 조와는 결제 부분이 다름
+
+https://its.tistory.com/2470620
+
+https://www.which.co.uk/news/2018/12/costa-coffee-launches-first-ever-contactless-payment-reusable-cup/
+
+
+
