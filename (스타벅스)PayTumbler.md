@@ -1,5 +1,6 @@
 * 인트로
     1. 친환경
+        <pre><code>
         - 관련 기사 url  
             [일회용 컵 재활용 가능한 아이디어 상품에 상금 100억]  
             https://www.insight.co.kr/news/146282  
@@ -29,7 +30,7 @@
 
         - 영국에 한 카페는 천연소재로 된 커피머그를 자체적으로 보급하는데 crowdfunding  
             https://www.crowdfunder.co.uk/y-h-green-party-travel-coffee-mugs
-        
+        </pre></code>
 2. 개인의 편리함 / 합리성
     
         * 관련기사 URL
